@@ -1,7 +1,6 @@
 <h2 align="center"><samp>Olá, meu nome é Hilton! :D</samp></h2>
 
-<p align="center"><samp>Sou estudante de Análise de sistemas na <a href="http://www.fatecsp.br/">FATEC-SP</a>,  atualmente trabalho como desenvolvedor júnior e estou constantemente aprendendo novas tecnologias. </samp></p>
-<p align="center"><samp>Atuo com o desenvolvimento de sistemas feitos em Node e React. 👨‍💻</samp></p>
+<p align="center"><samp>Sou graduado em Análise de sistemas na <a href="http://www.fatecsp.br/">FATEC-SP</a>,  atualmente trabalho como desenvolvedor web e estou constantemente aprendendo novas tecnologias. </samp></p>
 
 <h3 align="center"><samp>Minhas habilidades:</samp></h3>
 
